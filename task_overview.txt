@@ -1,0 +1,9 @@
+The task completetion statistics:
+
+    3 - The total number of tasks generated.
+    2 - The total number of compeleted tasks.
+    1 - The total number of incompelete tasks.
+    0 - The total number of tasks overdue.
+
+    %33.33 - The percentage of tasks that are incomplete.
+    %0.0 - The percentage of tasks that are overdue.

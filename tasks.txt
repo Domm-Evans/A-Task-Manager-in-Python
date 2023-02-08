@@ -1,0 +1,3 @@
+dominic;has cracked it;yes;2022-10-10;yes
+admin;a;a;2024-10-10;yes
+dominic;get a job;develop github portfolio and get a job as a data scientist;2023-03-31;no

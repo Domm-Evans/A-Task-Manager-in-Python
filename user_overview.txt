@@ -1,0 +1,10 @@
+Dominic's task completion statistics:
+
+    18 - The total number of users.
+    3 - The total number of tasks generated.
+    2 - Your total number of tasks assigned.
+
+    %66.67 - The percentage of all tasks assigned to you.
+    %50.0 - The percentage of your tasks you've completed.
+    %50.0 - The percentage of your tasks that are incomplete.
+    %0.0 - The percentage of your tasks overdue.
